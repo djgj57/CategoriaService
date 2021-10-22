@@ -1,0 +1,2 @@
+INSERT INTO tbl_categories (id, title, description, imageURL, status, create_at)
+VALUES (null, 'casas', 'Alojamientos enteros', 'https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_960_720.jpg', 'CREATED', '2018-09-05');
